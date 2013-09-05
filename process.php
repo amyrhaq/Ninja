@@ -3,9 +3,9 @@
 
 <?php
 
-	if($_POST['x'] > 20 AND $_POST['y'] > 20)
+	if($_POST['x'] > 10 AND $_POST['y'] > 10)
 	{
-		echo '<img src="http://fc09.deviantart.net/fs41/f/2009/049/9/f/Awesome_Dragon_Drawing_by_MeowMaster789.jpg" style="position:absolute; top:200px; left:300px; width:200px;" />';
+		echo '<img src="http://4pawsgrooming.vzwebsites.com/1270547729_470x353_i-m-a-pretty-cat.jpg" style="position:absolute; top:200px; left:300px; width:200px;" />';
 	}
 
 ?>
